@@ -1538,6 +1538,33 @@
           },
           {
             "kind": "Function",
+            "name": "isLoaderAllowed",
+            "printedName": "isLoaderAllowed(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@MLYAVPlayer@objc(cs)MLYPlayerManger(im)isLoaderAllowed:",
+            "mangledName": "$s11MLYAVPlayer15MLYPlayerMangerC15isLoaderAllowedyySbF",
+            "moduleName": "MLYAVPlayer",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "initialize",
             "printedName": "initialize(_:_:_:)",
             "children": [
@@ -3876,9 +3903,23 @@
     {
       "filePath": "\/Users\/ivanlin\/Documents\/Project\/demo\/iOS\/p2sp-sdk-ios-avplayer\/MLYAVPlayer\/Classes\/MLYPlayerManger.swift",
       "kind": "BooleanLiteral",
-      "offset": 2113,
+      "offset": 2112,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ivanlin\/Documents\/Project\/demo\/iOS\/p2sp-sdk-ios-avplayer\/MLYAVPlayer\/Classes\/MLYPlayerManger.swift",
+      "kind": "StringLiteral",
+      "offset": 2251,
+      "length": 41,
+      "value": "\"MLYPlayerManger isLoaderAllowed\""
+    },
+    {
+      "filePath": "\/Users\/ivanlin\/Documents\/Project\/demo\/iOS\/p2sp-sdk-ios-avplayer\/MLYAVPlayer\/Classes\/MLYPlayerManger.swift",
+      "kind": "StringLiteral",
+      "offset": 2291,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/ivanlin\/Documents\/Project\/demo\/iOS\/p2sp-sdk-ios-avplayer\/MLYAVPlayer\/Classes\/MLYPreviewView.swift",

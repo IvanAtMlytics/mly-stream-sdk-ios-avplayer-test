@@ -57,6 +57,7 @@ extension MLYAVPlayer : MLYPreviewViewClickListener {
   @objc public func play(src: Swift.String)
   @objc public func pause()
   @objc public func stop()
+  @objc public func isLoaderAllowed(_ value: Swift.Bool)
   public static func initialize(_ clientID: Swift.String, _ server: Swift.String?, _ debug: Swift.Bool?) throws
   @objc override dynamic public init()
   @objc deinit

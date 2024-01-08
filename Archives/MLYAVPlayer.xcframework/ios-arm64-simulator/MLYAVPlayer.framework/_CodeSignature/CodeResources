@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MLYAVPlayer-Swift.h</key>
 		<data>
-		fC+gf64dN4kODM7nlBG+6TIk7v0=
+		7TpQdh77HMQtMBb8opjmMoaf1dw=
 		</data>
 		<key>Headers/MLYAVPlayer-umbrella.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		1MhbxpBOgFd+2kvx85fWwfgQyy4=
+		5tZzrZ9f3cZkCoMDwF7CSjLsV0U=
 		</data>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		iOlqpZ5zdUpzN2sVMvFQ9LuNXhg=
+		SKdN1d5uzRMVXABGMvx+L5UWF8Q=
 		</data>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		iOlqpZ5zdUpzN2sVMvFQ9LuNXhg=
+		SKdN1d5uzRMVXABGMvx+L5UWF8Q=
 		</data>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uREjj3/Ui8dzlZRzRZOIk34m4aI=
+		hLO34iOR06/Xyh4ml9y6t/yioz4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Uf/rrsgzXho72sLzowIiUedg9udCn8FBoCifnTL5SE=
+			1ZgVgVwsO6S5865kIcQpYLIB0eUCGQTlt2csBxGv+gk=
 			</data>
 		</dict>
 		<key>Headers/MLYAVPlayer-umbrella.h</key>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jyJ6SI3ZIxByxpNcsr5P8LBiShx74IJW0YDSKODG/nc=
+			H5dcG/D98kCC3IokfLYEu3tHZBCDlZXsOo8NIQvsvTo=
 			</data>
 		</dict>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NmMF0hmgctwPPqxtCq1b+Y0pudKlUKOfpoAGDo0CPas=
+			igCoETZoVIrOcGqfr7Ud2SfMB2gJhMc2cVRPWFnHq0w=
 			</data>
 		</dict>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NmMF0hmgctwPPqxtCq1b+Y0pudKlUKOfpoAGDo0CPas=
+			igCoETZoVIrOcGqfr7Ud2SfMB2gJhMc2cVRPWFnHq0w=
 			</data>
 		</dict>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KBBB+UkK6S3a4qFVXPHZqouXJ8LHclcen68q4rPOo3A=
+			AloCCzXHIe3JI/D93981VUxftvWG5W6PxWCxJqyCe70=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
