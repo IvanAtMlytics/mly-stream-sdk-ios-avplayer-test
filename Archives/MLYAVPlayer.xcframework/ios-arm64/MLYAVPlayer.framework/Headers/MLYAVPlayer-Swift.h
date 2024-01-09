@@ -380,6 +380,8 @@ SWIFT_CLASS("_TtC11MLYAVPlayer15MLYPlayerManger")
 - (void)playWithSrc:(NSString * _Nonnull)src;
 - (void)pause;
 - (void)stop;
+- (void)setLatency:(double)value;
+- (void)isMonitorAllowed:(BOOL)value;
 - (void)isLoaderAllowed:(BOOL)value;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
