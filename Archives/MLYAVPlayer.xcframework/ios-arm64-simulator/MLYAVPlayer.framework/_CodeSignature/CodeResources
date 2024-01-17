@@ -45,6 +45,10 @@
 	<dict>
 		<key>Headers/MLYAVPlayer-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			eMKAHsG4PGdIXjnXdSkI/I6886A=
+			</data>
 			<key>hash2</key>
 			<data>
 			b2cR8ncxZkL/JATk/Wu2+oVXdsfzzRpJU6wCFJLTLgs=
@@ -52,6 +56,10 @@
 		</dict>
 		<key>Headers/MLYAVPlayer-umbrella.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			u1szk96ow7y/NwSsvu3FfkqSyWE=
+			</data>
 			<key>hash2</key>
 			<data>
 			lIy4iGgx4mErC/rhLEWiAqVP/qeiwzkEpehex7zGMQg=
@@ -59,6 +67,10 @@
 		</dict>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			wYY12B8FMyE+iAOItEJzJ0341Vo=
+			</data>
 			<key>hash2</key>
 			<data>
 			eORxT5KPNJyMsu9LZPFBkDrMNNzkjCV4gnv9/mP/pmQ=
@@ -66,6 +78,10 @@
 		</dict>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0VN/h7N9tHMliQkl4JCXJ1a3K3Q=
+			</data>
 			<key>hash2</key>
 			<data>
 			Q3ni4EteKOYuq/4ZA9mxdv/1MjqhQO2+uSylyerrtnc=
@@ -73,6 +89,10 @@
 		</dict>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			hHaserXDv8CqN3xLopYZLLhr9FE=
+			</data>
 			<key>hash2</key>
 			<data>
 			dBXxxIlgDhNeQrPS9pXN906d9XN4zYz6mfR1BbkVIlM=
@@ -80,6 +100,10 @@
 		</dict>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0VN/h7N9tHMliQkl4JCXJ1a3K3Q=
+			</data>
 			<key>hash2</key>
 			<data>
 			Q3ni4EteKOYuq/4ZA9mxdv/1MjqhQO2+uSylyerrtnc=
@@ -87,6 +111,10 @@
 		</dict>
 		<key>Modules/MLYAVPlayer.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			xy8sBverv678uj7C0YY/NL9cJt8=
+			</data>
 			<key>hash2</key>
 			<data>
 			LbN4zaugz7+fNhWYqgShFJiEX04hl7VLV0srQt1WHPk=
@@ -94,6 +122,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			B/jM1zjU6Q/eHMR5v8yPC+NDVIA=
+			</data>
 			<key>hash2</key>
 			<data>
 			0GuzZp3kvn1cOMePRyjd4jxpzj5otEccgqZaLvvrx3Q=
